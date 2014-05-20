@@ -1,0 +1,9 @@
+### depends file
+# File with depends 
+#END
+
+libnss3-tools
+firefox-esr
+opensc-dnie
+java-runtime
+
