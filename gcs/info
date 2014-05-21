@@ -4,6 +4,7 @@
 # Nombre del paquete (minúsculas-separado-con-guiones)
 name: gecosws-firefox-wrapper 
 
+
 # Autor 
 author: David Amian Valle <damian@emergya.es>
 
